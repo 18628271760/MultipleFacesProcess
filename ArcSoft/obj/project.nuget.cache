@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhLKe4vFupivH8KbrnHD3GXzAmgTVhRkuKrH+vGm+cJvtkKmZPUtyzy8tLB0tIc8dhpYlC0ZOg2qTwTfiD8Vog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chend\\Desktop\\ManagementSystem\\MultipleFacesProcess\\ArcSoft\\ArcSoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chend\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

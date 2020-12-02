@@ -1,0 +1,11 @@
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\bin\Debug\netstandard2.1\libarcsoft_face.dll
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\bin\Debug\netstandard2.1\libarcsoft_face_engine.dll
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\bin\Debug\netstandard2.1\ArcSoft.deps.json
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\bin\Debug\netstandard2.1\ArcSoft.dll
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\bin\Debug\netstandard2.1\ArcSoft.pdb
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\obj\Debug\netstandard2.1\ArcSoft.csprojAssemblyReference.cache
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\obj\Debug\netstandard2.1\ArcSoft.AssemblyInfoInputs.cache
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\obj\Debug\netstandard2.1\ArcSoft.AssemblyInfo.cs
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\obj\Debug\netstandard2.1\ArcSoft.csproj.CoreCompileInputs.cache
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\obj\Debug\netstandard2.1\ArcSoft.dll
+C:\Users\chend\Desktop\ManagementSystem\ArcSoft\obj\Debug\netstandard2.1\ArcSoft.pdb
