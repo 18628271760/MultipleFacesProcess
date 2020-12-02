@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/Face.cs \
+obj\Debug\netcoreapp3.1\Protos/FaceGrpc.cs: Protos/face.proto

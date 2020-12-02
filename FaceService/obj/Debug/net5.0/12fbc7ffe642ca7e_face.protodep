@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/Face.cs \
+obj\Debug\net5.0\Protos/FaceGrpc.cs: Protos/face.proto

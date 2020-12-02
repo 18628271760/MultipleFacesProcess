@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.AspNetCore" Version="2.33.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArcSoft\ArcSoft.csproj" />
+    <ProjectReference Include="..\gRPC_Face\gRPC_Face.csproj" />
+  </ItemGroup>
+
+</Project>
