@@ -1,0 +1,37 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "FaceClient";
+
+package greet;
+
+// The greeting service definition.
+service FaceRecongnise //接口，在service里面实现
+{
+  rpc RecongnizationByFace (stream FaceRequest) returns (stream FaceReply);
+
+  rpc CheckAlive(AliveRequest) returns (AliveReply);
+}
+
+// The request message containing the user's name. 入参
+message FaceRequest 
+{
+  bytes faceFeature = 1; //1代表参数位数，这个是类
+}
+
+// The response message containing the greetings. 出参
+message FaceReply 
+{
+  string personName = 1;
+  float confidenceLevel= 2;
+}
+
+message AliveRequest
+{
+	string aliveTest=1 ;
+}
+
+message AliveReply
+{
+	string aliveMessage=1;
+}
+

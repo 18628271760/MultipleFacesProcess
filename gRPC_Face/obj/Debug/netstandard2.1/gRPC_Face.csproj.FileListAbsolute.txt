@@ -1,0 +1,9 @@
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\bin\Debug\netstandard2.1\gRPC_Face.deps.json
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\bin\Debug\netstandard2.1\gRPC_Face.dll
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\bin\Debug\netstandard2.1\gRPC_Face.pdb
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\obj\Debug\netstandard2.1\gRPC_Face.csprojAssemblyReference.cache
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\obj\Debug\netstandard2.1\gRPC_Face.AssemblyInfoInputs.cache
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\obj\Debug\netstandard2.1\gRPC_Face.AssemblyInfo.cs
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\obj\Debug\netstandard2.1\gRPC_Face.csproj.CoreCompileInputs.cache
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\obj\Debug\netstandard2.1\gRPC_Face.dll
+C:\Users\chend\Desktop\ManagementSystem\gRPC_Face\obj\Debug\netstandard2.1\gRPC_Face.pdb

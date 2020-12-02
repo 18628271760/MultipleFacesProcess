@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVcd+AdMMihDYyiOrU7mWzyGFjhwq7sNyA8HwCwUae3PxBP4+nK6l/ITZ5jjogDGHGSSk4xfnP9Zw5TZp6lG6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chend\\Desktop\\ManagementSystem\\MultipleFacesProcess\\gRPC_Face\\gRPC_Face.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chend\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\chend\\.nuget\\packages\\grpc.core\\2.33.1\\grpc.core.2.33.1.nupkg.sha512",
+    "C:\\Users\\chend\\.nuget\\packages\\grpc.core.api\\2.33.1\\grpc.core.api.2.33.1.nupkg.sha512",
+    "C:\\Users\\chend\\.nuget\\packages\\grpc.tools\\2.33.1\\grpc.tools.2.33.1.nupkg.sha512",
+    "C:\\Users\\chend\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\chend\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\chend\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\chend\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

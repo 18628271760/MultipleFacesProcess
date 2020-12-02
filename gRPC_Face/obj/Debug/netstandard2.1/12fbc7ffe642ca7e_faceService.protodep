@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.1\Protos/FaceService.cs \
+obj\Debug\netstandard2.1\Protos/FaceServiceGrpc.cs: Protos/faceService.proto
